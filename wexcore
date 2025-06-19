@@ -16,6 +16,7 @@ local bannedUsers = {
 -- Таблица допустимых ключей по никам
 local allowedKeys = {
     ["wizzardd0test"] = {key = "r94ozxmKZpeUQgv8jh35W3TDduiRs8gF", days = 9999999},
+    ["wexcoreofficial"] = {key = "r94ozxmKZpeUQgv8jh35W3TDduiRs8gF", days = 9999999},
 	["1337df62"] = {key = "Eu9Hzj333LiEGGrqzTPD2N4p6P8hOyBG", days = 1},
 	[""] = {key = "", days = 7},
 	[""] = {key = "", days = 7},
