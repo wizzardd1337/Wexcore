@@ -16,7 +16,7 @@ local bannedUsers = {
 -- Таблица допустимых ключей по никам
 local allowedKeys = {
 	["wexcoreofficial"] = {key = "1337", days = 7},
-	[""] = {key = "", days = 7},
+	["Vorte9x"] = {key = "GnDuslV1NwuPSO2tAn4OfDqmSwcSksKK", days = 3},
 	[""] = {key = "", days = 7},
 	[""] = {key = "", days = 7},
 	[""] = {key = "", days = 7},
