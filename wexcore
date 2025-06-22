@@ -60,7 +60,7 @@ local function requestKey()
 
             -- Инжекция
             local success, err = pcall(function()
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/wizzardd1337/adminguii/refs/heads/main/admingui"))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/wizzardd1337/adminguii/main/admingui"))()
             end)
 
             rconsoleclear()
