@@ -17,10 +17,15 @@ local bannedUsers = {
 local allowedKeys = {
 	["wexcoreofficial"] = {key = "1337", days = 1000},
 	["Сorte9x"] = {key = "001", days = 3},
-	[""] = {key = "", days = 7},
-	[""] = {key = "", days = 7},
-	[""] = {key = "", days = 7},
-	[""] = {key = "", days = 7},
+	[""] = {key = "sEw005jCECxHOVMPbBR71VMbZ21BUE5U", days = 30},
+	[""] = {key = "No5MS6ZzcYgcdgLNwMrF3POfrRNotMEA", days = 30},
+	[""] = {key = "veSMND1NZfmvR2SQzKdLe3mLWaQr3j05", days = 30},
+	[""] = {key = "G7wyHpCoYoIxLjsDzFFrmMhI39s4DKds", days = 30},
+	[""] = {key = "S5wbCjrHheFS2wd653QO3HuQeyAoc3Wb", days = 30},
+	[""] = {key = "PAZKbF1Zoh9a5wRZoheTVinVJm0I6NK3", days = 30},
+	[""] = {key = "ImfnFYKnM61Tu36PV19e1CoOS7gnC6OR", days = 30},
+	[""] = {key = "o91D86xeuVcZF48A0Moc9evZG1C9B04R", days = 30},
+	[""] = {key = "SmIpAsL76BOrtHiNGs5FJDXLxod5FiSG", days = 30},
 
  
 }
