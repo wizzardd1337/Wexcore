@@ -16,6 +16,7 @@ local bannedUsers = {
 -- Таблица допустимых ключей по никам
 local allowedKeys = {
 	["rivalsgodfr69"] = {key = "1337", days = 1000},
+        ["triplemonkeybalss616"] = {key = "1337", days = 1000},
 	["Сorte9x"] = {key = "001", days = 3},
 	[""] = {key = "sEw005jCECxHOVMPbBR71VMbZ21BUE5U", days = 30},
 	[""] = {key = "No5MS6ZzcYgcdgLNwMrF3POfrRNotMEA", days = 30},
